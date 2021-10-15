@@ -9,6 +9,9 @@
     <li>
       Restore the source code of the firebase servers in <a href="https://github.com/AcaiBerii/Blooket.JS-reborn/blob/main/modules/socket.js">socket.js</a>
     </li>
+    <li>
+      Update the library to support the latest Blooks.
+    </li>
   </ul>
 </div>
 
