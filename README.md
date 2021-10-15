@@ -11,6 +11,16 @@
     </li>
     <li>
       Update the library to support the latest Blooket API and updates.
+      <br>
+      This means:
+      <ul>
+      <li>
+        Support the latest changes to the Blooket API.
+      </li>
+      <li>
+        Support the newest updates, such as new blooks and gamemodes.
+      </li>
+      </ul>
     </li>
   </ul>
 </div>
