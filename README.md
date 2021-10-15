@@ -3,6 +3,14 @@
   </div></div>
   <img src="/contribute-please.png">
 </div>
+<div align="left">
+  <h3>We're looking for people that can:</h3>
+  <ul>
+    <li>
+      Restore the source code of the firebase servers in <a href="https://github.com/AcaiBerii/Blooket.JS-reborn/blob/main/modules/socket.js">socket.js</a>
+    </li>
+  </ul>
+</div>
 
 # Blooket.JS Reborn
 #### Table Of Contents
