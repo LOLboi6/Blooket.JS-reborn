@@ -1,5 +1,8 @@
-![Blooket.JS](/logo.png)  
-![Please, contribute!](/contribute-please.png)
+<div align="center">
+  <img src="/logo.png">  
+  <img src="/contribute-please.png">
+</div>
+
 # Blooket.JS Reborn
 #### Table Of Contents
   - [Features](#features)
