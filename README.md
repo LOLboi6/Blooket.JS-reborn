@@ -1,6 +1,5 @@
 ![Blooket.JS](/logo.png)
 # Blooket.JS Reborn (After Takedown)
-## Version 1.2.2
 #### Table Of Contents
   - [Features](#features)
   - [Semi Bugs](#sbugs)
