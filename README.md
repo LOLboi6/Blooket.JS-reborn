@@ -8,18 +8,42 @@
   <ul>
     <li>
       Restore the source code of the firebase servers in <a href="https://github.com/AcaiBerii/Blooket.JS-reborn/blob/main/modules/socket.js">socket.js</a>
+      <br>
+      This means:
+      <ul>
+        <li>
+          Find and retrieve the source code of the following:
+          <ul>
+            <li>
+              https://blooket-2020.firebaseio.com/
+            </li>
+            <li>
+              https://blooket-2021.firebaseio.com/
+            </li>
+            <li>
+              https://blooket-2022.firebaseio.com/
+            </li>
+            <li>
+              https://blooket-2023.firebaseio.com/
+            </li>
+            <li>
+              https://blooket-2024.firebaseio.com/
+            </li>
+          </ul>
+        </li>
+      </ul>
     </li>
     <li>
       Update the library to support the latest Blooket API and updates.
       <br>
       This means:
       <ul>
-      <li>
-        Support the latest changes to the Blooket API.
-      </li>
-      <li>
-        Support the newest updates, such as new blooks and gamemodes.
-      </li>
+        <li>
+          Support the latest changes to the Blooket API.
+        </li>
+        <li>
+          Support the newest updates, such as new blooks and gamemodes.
+        </li>
       </ul>
     </li>
   </ul>
