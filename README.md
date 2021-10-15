@@ -1,5 +1,6 @@
-![Blooket.JS](/logo.png)
-# Blooket.JS Reborn (After Takedown)
+![Blooket.JS](/logo.png)  
+![Please, contribute!](/contribute-please.png)
+# Blooket.JS Reborn
 #### Table Of Contents
   - [Features](#features)
   - [Semi Bugs](#sbugs)
