@@ -12,6 +12,7 @@
       This means:
       <ul>
         <li>
+          <strike>
           Find and retrieve the source code of the following:
           <ul>
             <li>
@@ -30,6 +31,8 @@
               https://blooket-2024.firebaseio.com/
             </li>
           </ul>
+          </strike>
+          These are actually Blooket's firebase applications and do not need to have the source code published. See <a href="https://github.com/RedYetiDev/RedYetiDev/issues/2#issuecomment-944830452">here</a>.
         </li>
       </ul>
     </li>
