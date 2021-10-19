@@ -2,8 +2,8 @@
   <img src="/logo.png">
   </div></div>
   <img src="/contribute-please.png">  
-  __I was forced to give attribution, here it is:__  
-  Blooket.JS was originally created by RedYetiDev and the original project can be found here
+  <i>I was forced to give attribution, here it is:</i>  
+  Blooket.JS was originally created by <a href="https://github.com/redyetidev">RedYetiDev</a> and the original project can be found <a href="https://github.com/redyetidev/blooket.js">here</a>.
 </div>
 <div align="left">
   <h3>We're looking for people that can:</h3>
