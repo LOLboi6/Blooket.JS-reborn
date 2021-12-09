@@ -14,12 +14,12 @@ class Blooket extends EventEmitter {
     options = options || {}
     this.options.repeat = options.repeat || true
     // Cafe Mode Only Option
-    this.options.cafebonus = options.cafebonus || 50
+    this.options.cafebonus = options.cafebonus || 999
     // Tower Defense Only Option
     this.options.towerbonus = options.towerbonus || 1
     // Factory Mode Only Options
-    this.options.blooktime = options.blooktime || 1000
-    this.options.blookcash = options.blookcash || 100
+    this.options.blooktime = options.blooktime || 9999
+    this.options.blookcash = options.blookcash || 99999999999999
     // Battle Royale and Classic mode Only Options
     this.options.answertime = options.answertime || 1
     // All Game Modes
@@ -34,13 +34,13 @@ class Blooket extends EventEmitter {
     this.CurrentIndex = 0
     this.TotalIndex = null
     this.correct = null
-    this.cash = 0
+    this.cash = 9999
     this.gamestarted = 0
     // For Gold Game Mode
     this.prizes = null
     this.steal = null
     // For fatory mode only
-    this.blooks = 0
+    this.blooks = 1000
     // Battle Royale only
     this.shuffle = null
   }
